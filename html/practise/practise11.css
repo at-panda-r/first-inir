@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+.oya {
+    height: 500px;
+    width: 500px;
+    background-color: #f6f5f4;
+    position: relative;
+
+}
+
+.ko {
+    height: 100px;
+    width: 100px;
+    position: absolute;
+}
+
+.ko1 {
+   left: 50px;
+   top: 50px;
+   background-color: #ff9abc;
+}
+
+.ko2 {
+    left: 100px;
+    top: 100px;
+    background-color: #f9b9ff;
+ }
+
+ .ko3 {
+    left: 150px;
+    top: 150px;
+    background-color: #cbb8ff;
+ }
+
+ .ko4 {
+    left: 200px;
+    top: 200px;
+    background-color: #acb5ff;
+ }

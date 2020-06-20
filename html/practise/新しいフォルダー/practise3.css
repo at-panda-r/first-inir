@@ -1,0 +1,25 @@
+@charset "utf-8"
+
+body {
+    margin:0;
+}
+.header {
+    background-color: red;
+    height: 80px;
+    text-align: center;
+    color: ivory;
+}
+
+.main {
+    background-color: navy;
+    height: 500px;
+    text-align: center;
+    color: ivory;
+}
+
+.footer {
+    background-color: black;
+    height: 80px;
+    text-align: center;
+    color: ivory;
+}

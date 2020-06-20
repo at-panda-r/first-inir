@@ -1,0 +1,52 @@
+@charset "UTF-8"
+body{
+  margin: 0;
+}
+
+.header{
+  background: red;
+  height: 80px;
+  text-align: center;
+  color: #fff;
+  width: 980px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.main-wrap{
+  height: 500px;
+  text-align: center;
+  color: #fff;
+  width: 980px;
+  margin-left: auto;
+  margin-right: auto;
+  overflow: hidden;
+}
+
+.main{
+  background: blue;
+  height: 100%;
+  text-align: center;
+  color: #fff;
+  width: 680px;
+  float: left;
+}
+
+.sidebar{
+  background: green;
+  height: 100%;
+  text-align: center;
+  color: #fff;
+  width: 300px;
+  float: left;
+}
+
+.footer{
+  background: black;
+  height: 80px;
+  text-align: center;
+  color: #fff;
+  width: 980px;
+  margin-left: auto;
+  margin-right: auto;
+}

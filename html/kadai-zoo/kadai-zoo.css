@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+body {
+    margin: 0;
+    padding: 0;
+    color: #333;
+    font-size: 14px;
+}
+
+header h1 {
+    width: 300px;
+    margin: 4px;
+}
+
+#contents {
+    display: flex;
+    background-color: rgba(0,0,255,0.1);
+    justify-content: space-between;
+    text-align: center
+}
+
+.elements {
+    padding: 2px;
+    margin: 16px;
+    border: 0.5px solid;
+    background-color: #ffffff
+}
+
+

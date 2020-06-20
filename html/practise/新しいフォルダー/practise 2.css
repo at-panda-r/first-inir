@@ -1,0 +1,18 @@
+@charset "UTF-8";
+.oya {
+    background-color: black;
+    width: 500px;
+    height: 500px;
+
+
+}
+
+.ko {
+    background-color:red;
+    width: 50px;
+    height: 50px;
+    display: block;
+    position: relative;
+    top: 150px;
+
+}
